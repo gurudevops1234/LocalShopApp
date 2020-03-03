@@ -1,0 +1,2 @@
+# LocalShopApp
+just maven
